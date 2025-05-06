@@ -1,7 +1,6 @@
 # SOCIAL-MEDIA-SETIMENT-AND-TOPIC-ANALYSIS
 1. Project Overview
 This project analyzes social media data (Twitter, Instagram, LinkedIn, Facebook) to:
-
 Identify user sentiment trends across platforms.
 Discover emerging topics and hashtag popularity .
 Track temporal shifts in user interests.
